@@ -8,4 +8,4 @@ They should be good enough for use as templates to make fixtures and mods for th
 
 ## Keypad
 
-![Keypad](media/models/keypad.webm)
+![Keypad](media/models/keypad.gif)
