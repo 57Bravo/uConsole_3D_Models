@@ -6,6 +6,11 @@ They should be good enough for use as templates to make fixtures and mods for th
 
 **If you need tight tolerances, don't use these models.**
 
+## Enclosure Body
+
+![Enclosure Body](media/models/enc_body.gif)
+
 ## Keypad
 
 ![Keypad](media/models/keypad.gif)
+
