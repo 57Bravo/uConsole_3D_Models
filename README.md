@@ -16,6 +16,10 @@ For more info on the actual uConsole, checkout CPI's website and grab one: https
 
 ![Enclosure Body](media/models/enc_body.gif)
 
+## Enclosure Bottom
+
+![Enclosure Bottom](media/models/enc_bottom.gif)
+
 ## Keypad
 
 ![Keypad](media/models/keypad.gif)
