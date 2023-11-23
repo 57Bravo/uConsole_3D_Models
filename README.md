@@ -8,6 +8,10 @@ They should be good enough for use as templates to make fixtures and mods for th
 
 For more info on the actual uConsole, checkout CPI's website and grab one: https://www.clockworkpi.com/uconsole
 
+## Enclosure Top
+
+![Enclosure Top](media/models/enc_top.gif)
+
 ## Enclosure Body
 
 ![Enclosure Body](media/models/enc_body.gif)
