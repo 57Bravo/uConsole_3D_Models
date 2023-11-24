@@ -1,3 +1,11 @@
+# UPDATE - CPI released formal models on their site
+
+https://www.clockworkpi.com/product-page/uconsole-3d-models-in-obj-format-free
+
+You should use CPI's models moving forward. I'm sure they're spot on. 
+
+------------------------------------------------------------------------------
+
 # uConsole 3D models
 
 This is a repo to host very coarse 3D models for the uConsole made with FreeCAD.
